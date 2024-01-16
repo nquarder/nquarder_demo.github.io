@@ -12,3 +12,4 @@ Here is where **I will write a short paragraph** *about myself*.
 
 
 ## Profile Photo
+![nate's profile photo](mentimeter_qr_code_AGU23.png)
